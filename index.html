@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IPTV Justin</title>
+    <style>
+      :root {
+        color-scheme: dark;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        background: #0f172a;
+        color: #f8fafc;
+        line-height: 1.6;
+      }
+      main {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 3rem 1.2rem 4rem;
+      }
+      h1 {
+        font-size: 2rem;
+        margin-bottom: 0.5rem;
+      }
+      .button {
+        display: inline-block;
+        margin: 1rem 0 1.5rem;
+        padding: 0.8rem 1.2rem;
+        background: #2563eb;
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 600;
+      }
+      .button:hover {
+        background: #1d4ed8;
+      }
+      .channel-list {
+        list-style: none;
+        padding: 0;
+        margin: 1rem 0 0;
+        display: grid;
+        gap: 0.75rem;
+      }
+      .channel-card {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        padding: 0.8rem 1rem;
+        background: #111827;
+        border: 1px solid #334155;
+        border-radius: 10px;
+      }
+      .channel-logo {
+        width: 42px;
+        height: 42px;
+        object-fit: contain;
+        border-radius: 8px;
+        background: #1f2937;
+        padding: 4px;
+      }
+      .channel-name {
+        font-weight: 600;
+      }
+      .note {
+        color: #cbd5e1;
+        font-size: 0.95rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>IPTV Justin</h1>
+      <p class="note">A single combined playlist page for your M3U channels and EPG guide.</p>
+      <a class="button" href="channels.m3u" download>Download playlist</a>
+      <p>This combined playlist includes 8 channels and points to the included guide.xml EPG:</p>
+      <ul class="channel-list">
+        <li class="channel-card">
+          <img class="channel-logo" src="logos/boomerang.png" alt="Boomerang logo" onerror="this.style.display='none'" />
+          <span class="channel-name">Boomerang</span>
+        </li>
+        <li class="channel-card">
+          <img class="channel-logo" src="logos/disney-xd.png" alt="Disney XD logo" onerror="this.style.display='none'" />
+          <span class="channel-name">Disney XD</span>
+        </li>
+        <li class="channel-card">
+          <img class="channel-logo" src="logos/discovery-family.png" alt="Discovery Family logo" onerror="this.style.display='none'" />
+          <span class="channel-name">Discovery Family</span>
+        </li>
+        <li class="channel-card">
+          <img class="channel-logo" src="logos/nickelodeon.png" alt="Nickelodeon logo" onerror="this.style.display='none'" />
+          <span class="channel-name">Nickelodeon</span>
+        </li>
+        <li class="channel-card">
+          <img class="channel-logo" src="logos/nick-jr.png" alt="Nick Jr logo" onerror="this.style.display='none'" />
+          <span class="channel-name">Nick Jr</span>
+        </li>
+        <li class="channel-card">
+          <img class="channel-logo" src="logos/cartoon-network.png" alt="Cartoon Network logo" onerror="this.style.display='none'" />
+          <span class="channel-name">Cartoon Network</span>
+        </li>
+        <li class="channel-card">
+          <img class="channel-logo" src="logos/disney-channel.png" alt="Disney Channel logo" onerror="this.style.display='none'" />
+          <span class="channel-name">Disney Channel</span>
+        </li>
+        <li class="channel-card">
+          <img class="channel-logo" src="logos/nicktoons.png" alt="Nicktoons logo" onerror="this.style.display='none'" />
+          <span class="channel-name">Nicktoons</span>
+        </li>
+      </ul>
+      <p class="note">Place logo files in the logos folder using names like boomerang.png or disney-xd.png to show them here.</p>
+      <p class="note">Open the downloaded file in any M3U-compatible player such as VLC, TiviMate, or IPTV Smarters.</p>
+    </main>
+  </body>
+</html>

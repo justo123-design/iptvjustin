@@ -1,0 +1,18 @@
+#EXTM3U x-tvg-url="guide.xml"
+#PLAYLIST: IPTV Justin
+#EXTINF:-1 tvg-id="Boomerang.us@SD" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/justo123-design/iptvjustin/main/logos/boomerang.png" group-title="Kids",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/justo123-design/iptvjustin/main/logos/disney-xd.png" group-title="Kids",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamily.us@SD" tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/justo123-design/iptvjustin/main/logos/discovery-family.png" group-title="Kids",Discovery Family
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/justo123-design/iptvjustin/main/logos/nickelodeon.png" group-title="Kids",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/justo123-design/iptvjustin/main/logos/nick-jr.png" group-title="Kids",Nick Jr
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/justo123-design/iptvjustin/main/logos/cartoon-network.png" group-title="Kids",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/justo123-design/iptvjustin/main/logos/disney-channel.png" group-title="Kids",Disney Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
+#EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/justo123-design/iptvjustin/main/logos/nicktoons.png" group-title="Kids",Nicktoons
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts

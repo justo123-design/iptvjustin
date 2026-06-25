@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="iptvjustin">
+  <channel id="Boomerang.us@SD">
+    <display-name>Boomerang</display-name>
+  </channel>
+  <channel id="DisneyXD.us@East">
+    <display-name>Disney XD</display-name>
+  </channel>
+  <channel id="DiscoveryFamily.us@SD">
+    <display-name>Discovery Family</display-name>
+  </channel>
+  <channel id="Nickelodeon.us@East">
+    <display-name>Nickelodeon</display-name>
+  </channel>
+  <channel id="NickJr.us@East">
+    <display-name>Nick Jr</display-name>
+  </channel>
+  <channel id="CartoonNetwork.us@East">
+    <display-name>Cartoon Network</display-name>
+  </channel>
+  <channel id="DisneyChannel.us@East">
+    <display-name>Disney Channel</display-name>
+  </channel>
+  <channel id="Nicktoons.us@East">
+    <display-name>Nicktoons</display-name>
+  </channel>
+
+  <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Boomerang.us@SD">
+    <title lang="en">Guide ready</title>
+    <desc lang="en">Filtered EPG entries for your selected channels.</desc>
+  </programme>
+  <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="DisneyXD.us@East">
+    <title lang="en">Guide ready</title>
+    <desc lang="en">Filtered EPG entries for your selected channels.</desc>
+  </programme>
+  <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="DiscoveryFamily.us@SD">
+    <title lang="en">Guide ready</title>
+    <desc lang="en">Filtered EPG entries for your selected channels.</desc>
+  </programme>
+  <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Nickelodeon.us@East">
+    <title lang="en">Guide ready</title>
+    <desc lang="en">Filtered EPG entries for your selected channels.</desc>
+  </programme>
+  <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="NickJr.us@East">
+    <title lang="en">Guide ready</title>
+    <desc lang="en">Filtered EPG entries for your selected channels.</desc>
+  </programme>
+  <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="CartoonNetwork.us@East">
+    <title lang="en">Guide ready</title>
+    <desc lang="en">Filtered EPG entries for your selected channels.</desc>
+  </programme>
+  <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="DisneyChannel.us@East">
+    <title lang="en">Guide ready</title>
+    <desc lang="en">Filtered EPG entries for your selected channels.</desc>
+  </programme>
+  <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Nicktoons.us@East">
+    <title lang="en">Guide ready</title>
+    <desc lang="en">Filtered EPG entries for your selected channels.</desc>
+  </programme>
+</tv>
